@@ -1,4 +1,4 @@
-## Privacy Policy of SmartAccaunt
+## Privacy Policy of SmartAccount
 
 This Application collects some Personal Data from its Users.
 
